@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\RoleBasedTaskManager.WebAPI.props" />
-</Project>
