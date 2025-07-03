@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBasedTaskManager.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+142527e5d4a65d122bf50b9d984d35b2d3dabf03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9d482b1e0dc238fce56308bf5524bd6213fd5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBasedTaskManager.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBasedTaskManager.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

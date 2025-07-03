@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoleBasedTaskManager.Domain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoleBasedTaskManager.Infrastructure", "..\RoleBasedTaskManager.Infrastructure\RoleBasedTaskManager.Infrastructure.csproj", "{D6AA8457-C11B-43E3-89A5-05A7969302CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoleBasedTaskManager.Application", "..\RoleBasedTaskManager.Application\RoleBasedTaskManager.Application.csproj", "{61B224C7-68B3-4FD8-9CBD-FF770A4DA8A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D6AA8457-C11B-43E3-89A5-05A7969302CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6AA8457-C11B-43E3-89A5-05A7969302CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6AA8457-C11B-43E3-89A5-05A7969302CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B224C7-68B3-4FD8-9CBD-FF770A4DA8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B224C7-68B3-4FD8-9CBD-FF770A4DA8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B224C7-68B3-4FD8-9CBD-FF770A4DA8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B224C7-68B3-4FD8-9CBD-FF770A4DA8A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
