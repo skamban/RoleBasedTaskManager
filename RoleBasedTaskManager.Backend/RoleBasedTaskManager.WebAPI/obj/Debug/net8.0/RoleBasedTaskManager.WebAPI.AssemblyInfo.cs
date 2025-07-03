@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBasedTaskManager.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bf97bf8462964ab9ddcde8b7dc6f2a9a497ffbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dadf61d1281a1a54cee45460d2b509086984606c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBasedTaskManager.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBasedTaskManager.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
