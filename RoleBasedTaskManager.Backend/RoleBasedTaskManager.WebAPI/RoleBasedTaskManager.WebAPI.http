@@ -1,0 +1,6 @@
+@RoleBasedTaskManager.WebAPI_HostAddress = http://localhost:5110
+
+GET {{RoleBasedTaskManager.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

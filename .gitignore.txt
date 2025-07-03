@@ -1,0 +1,88 @@
+# .NET Core / .NET 5+ / .NET 8
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+build/
+bld/
+[Bb]uild[Ll]og.*
+
+# Visual Studio
+.vs/
+.vscode/
+.vscode-test/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+
+# NPM Packages (in case you later add React/Frontend inside Backend)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# EF Core Migrations Snapshots
+Migrations/*Snapshot.cs
+
+# Auto-generated files
+Generated_Code/
+Generated_*/**
+
+# Secrets
+secrets.json
+appsettings.*.json # You can ignore only appsettings.Development.json if you want to track others
+
+# Logs
+*.log
+
+# Others
+Thumbs.db
+Desktop.ini
+
+# Resharper Files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains Rider settings
+.idea/
+
+# Docker
+*.tgz
+*.dockerignore
+
+# LocalDB
+*.mdf
+*.ldf
+
+# Optional (if you don't want to commit your SQLite or LocalDB databases)
+*.db
+*.sqlite
+
+# Test Results
+TestResults/
+
+# Azure Pipelines
+.azure-pipelines/
+
+# Coverage Reports
+coverage/
+coverage.*.json
+*.lcov
+*.nyc_output/
